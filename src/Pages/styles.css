@@ -1,0 +1,32 @@
+/* 
+all the below code is for ref and is for a style.js file 
+
+import { createTheme } from "@mui/material";
+
+// export const theme = createTheme({
+//     breakpoints:{
+//         values:{
+//             mobile: 0,
+//             tablet: 768,
+//             laptop: 1024,
+//             desktop: 1200
+//         }
+//     }
+// })
+*/
+
+/* .sidebar{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25;
+    border-right: 2px solid grey;
+} */
+
+.marketData{
+      align-self: "start";
+      padding: 25;
+      padding-top: 10;
+      width: "100%";
+}
